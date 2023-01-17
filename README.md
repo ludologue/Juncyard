@@ -24,14 +24,12 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_I am the Wombat_ (Australian: fair dinkum, mate) is a photograph I found in the Wikidata database.
 <param ve-image 
-       label="Wombat in Snow" 
-       description="Wombat with snow" 
+       label="V. ursinus" 
+       description="Your basic wombat" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Vombatus_ursinus_%28Wombat_in_snow%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg">
 
 ## Map
 
