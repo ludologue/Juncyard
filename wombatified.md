@@ -26,10 +26,8 @@ Two things about wombats.  One, never attack one from the front.  They are feroc
        url="https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg">
 
 ## Where on Earth
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="-42,147" zoom="9">
+Wombats generally come from Tasmania, which is an odd triangular piece of the Australian continent that seems to have broken off.  Our planet should be more careful with its land masses.
+<param ve-map center="-42,147" zoom="7">
 
 ## Multiple viewers
 
