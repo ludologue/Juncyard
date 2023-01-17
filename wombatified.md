@@ -18,14 +18,14 @@ This was a sample visual essay demonstrating a few key features of a Visual Essa
 
 # Behold the Beast
 
-Two things about wombats.  One, never attack one from the front.  They are ferocious and have big teeth and sharp claws.  Two, never attack one from behind, because they have a thick armor plate covering the rear of their anatomy.  Up until about a year old, wombats are gentle creatures that can be safely petted and handled.  After that, they become mindless killing machines.  I learned this while holding a wombat at an Australian bush park.  "How old is this one?" I wondered.  "We're not sure," said the ranger.  "Maybe about 11 months."  Australians really don't like Americans, and they have an odd sense of humor.
+Two things about wombats.  One, never attack one from the front.  They are ferocious and have big teeth and sharp claws.  Two, never attack one from behind, because they have a thick armor plate covering the rear of their anatomy.  Up until about a year old, wombats are gentle creatures that can be safely petted and handled.  After that they become mindless killing machines.  I learned this while holding a wombat at an Australian bush park.  "How old is this one?" I wondered.  "We're not sure," said the ranger.  "Maybe about 11 months."  Australians have an odd sense of humor and don't really like Americans.
 <param ve-image 
        label="V. ursinus" 
        description="Your basic wombat" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg">
 
-## Map
+# Where on Earth
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
