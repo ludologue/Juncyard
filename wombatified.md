@@ -9,14 +9,12 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q23175"> <!-- Vombatus ursinus -->
-<param ve-entity eid="Q34366"> <!-- Tazzie -->
+<param ve-entity title="wombat" eid="Q23175"> <!-- Vombatus ursinus -->
+<param ve-entity title="Tasmania" eid="Q34366"> <!-- Tazzie -->
 
 # Sample visual essay
 
 This was a sample visual essay demonstrating a few key features of a Visual Essay.  And then I broke it.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
 
