@@ -29,7 +29,7 @@ Two things about wombats.  One, never attack one from the front.  They are feroc
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="-42,147" zoom="6">
+<param ve-map center="-42,147" zoom="9">
 
 ## Multiple viewers
 
