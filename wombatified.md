@@ -10,9 +10,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q23175"> <!-- Vombatus ursinus -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q34366"> <!-- Tazzie -->
 
 # Sample visual essay
 
