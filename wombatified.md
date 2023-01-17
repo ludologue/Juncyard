@@ -1,10 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="World of Wombats"
-       author="The News for Marsupials"
+       title="The News for Marsupials"
+       author="I.M.A. Wombat"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/6/6e/Vombatus_ursinus_%28Wombat_in_snow%29.jpg" 
-       layout="horizontal">
+       layout="vtl">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -16,7 +16,7 @@
 
 # Sample visual essay
 
-This was a sample visual essay demonstrating a few key features of a Visual Essay.  And then I broke it. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This was a sample visual essay demonstrating a few key features of a Visual Essay.  And then I broke it.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
