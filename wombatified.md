@@ -16,11 +16,9 @@
 
 This was a sample visual essay demonstrating a few key features of a Visual Essay.  And then I broke it.
 
-# Basic usage
+# Behold the Beast
 
-## Image
-
-_I am the Wombat_ (Australian: fair dinkum, mate) is a photograph I found in the Wikidata database.
+Two things about wombats.  One, never attack one from the front.  They are ferocious and have big teeth and sharp claws.  Two, never attack one from behind, because they have a thick armor plate covering the rear of their anatomy.  Up until about a year old, wombats are gentle creatures that can be safely petted and handled.  After that, they become mindless killing machines.  I learned this while holding a wombat at an Australian bush park.  "How old is this one?" I wondered.  "We're not sure," said the ranger.  "Maybe about 11 months."  Australians really don't like Americans, and they have an odd sense of humor.
 <param ve-image 
        label="V. ursinus" 
        description="Your basic wombat" 
