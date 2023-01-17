@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg" 
+       title="World of Wombats"
+       author="The News for Marsupials"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/6/6e/Vombatus_ursinus_%28Wombat_in_snow%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -28,8 +28,8 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Wombat in Snow" 
+       description="Wombat with snow" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Vombatus_ursinus_%28Wombat_in_snow%29.jpg">
 
